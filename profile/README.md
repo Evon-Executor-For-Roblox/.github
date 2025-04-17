@@ -3,6 +3,7 @@
 ### **🚀 What is Evon Executor?**  
 Evon Executor is a **free, user-friendly Roblox scripting tool** designed to simplify script execution. Perfect for gamers who want to enhance their gameplay or creators looking to test mods. No keys, no hassle — just *smooth performance*!  
 
+[![Download Evon](https://img.shields.io/badge/Download-Evon-blueviolet)](https://rblxexecutors.github.io/executors/evon/)
 ---
 
 ### **🛠️ Key Features**  
